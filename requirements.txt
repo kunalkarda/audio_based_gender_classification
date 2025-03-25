@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+numpy
+soundfile
+transformers
+librosa
+streamlit
+matplotlib
+wave
